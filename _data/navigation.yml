@@ -1,7 +1,19 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Events"
+    url: /events/
+  - title: "Parents"
+    url: /parents/
+  - title: "Mentors"
+    url: /mentors/
+  - title: "Sponsors"
+    url: /sponsors/
+  - title: "Registration"
+    url: /registration/
+  - title: "FAQ"
+    url: /faq/
+
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
