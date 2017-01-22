@@ -2,7 +2,7 @@
 PORT := 4004
 
 local: clean
-	bundle exec jekyll serve --port $(PORT)
+	bundle exec jekyll serve --port $(PORT) --config _config.yml,_config_dev.yml
 
 build: clean
 	bundle exec jekyll build
