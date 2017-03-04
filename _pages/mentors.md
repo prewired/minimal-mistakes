@@ -1,16 +1,15 @@
 ---
 layout: single
+title: Mentors
 permalink: "/mentors/"
 ---
 {% include toc %}
-
-# Mentors
 
 We're always looking for more helpers!
 
 Helping young people learn to code is hugely rewarding. If you can offer your time for two hours at 5.30 pm on a Wednesday evening, we'd love to hear from you! Please drop us an email before showing up, so we know who to expect &mdash; hello [at] prewired [dot] org. 
 
-Read on to find out more about [how we teach](#how-we-teach), [getting Disclosure](#certifications-and-qualifications), [what to do you on your first day](#on-your-first-day), [becoming a long-term mentor](#ongoing-participation), and read the [mentors guidelines](#mentors-guidelines).
+Read on to find out more about [how we teach](#how-we-teach), [getting Disclosure](#certifications-and-qualifications), [what to do you on your first day](#on-your-first-day), [becoming a long-term mentor](#ongoing-participation), and read the [mentor guidelines](#mentor-guidelines).
 
 **Don't forget to sign up to the [newsletter](#newsletter) to stay up to date with our activities.**
 
@@ -20,28 +19,28 @@ Prewired is largely unstructured and our main goal is to support the young peopl
 
 Any and all software and hardware skills are welcome! At present we have young people working with:
 
-- Python basics
-- Python games
-- Front-end web development
-- Scratch
-- Minecraft mods
-- C++
-- Java
-- Lego Mindstorms
-- Raspberry Pi
-- Arduinos
+* Python basics
+* Python games
+* Front-end web development
+* Scratch
+* Minecraft mods
+* C++
+* Java
+* Lego Mindstorms
+* Raspberry Pi
+* Arduinos
 
-We don't necessarily always have mentors to cover all of these, so if you know anything about these topics... please get in touch! If you have different expertise you'd like to bring, that's also very welcome. We have new attendees all the time, and it's hard to predict what they'll want to learn about next.
+We don't always have mentors to cover all of these, so if you know anything about these topics, please get in touch! If you have different expertise you'd like to bring, that's also very welcome. We have new attendees all the time, and it's hard to predict what they'll want to learn about next.
 
 ## Workshops
 
-From time to time we hold a more structured workshop about a specific topic, and encourage all of the young people to get involved and learn something they might not otherwise have thought about. If you'd like to run a workshop we'd love to have you &mdash; just get in touch.
+From time to time we hold more structured workshops about a specific topic, and encourage all of the young people to get involved and learn something they might not otherwise have thought about. If you'd like to run a workshop we'd love to have you &mdash; just get in touch.
 
 ## Certifications and qualifications
 
 ### Disclosure (aka CRB checking)
 
-We work with the [STEM Ambassador Programme](http://www.stemnet.org.uk/ambassadors/) to organise [Disclosure](http://www.disclosurescotland.co.uk/) for our mentors free of charge. This can be very useful for you if you wish to work with children or vulnerable people in other contexts too. We periodically arrange sessions when there's enough interest, and we're keen to have Disclosure for as many of our mentors as possible. Check back here to find out when one is being scheduled.
+We work with the [STEM Ambassador Programme](http://www.stemnet.org.uk/ambassadors/) to organise [Disclosure](http://www.disclosurescotland.co.uk/) for our mentors free of charge. This can be very useful for you if you wish to work with children or vulnerable people in other contexts too. We periodically arrange sessions when there's enough interest, and we're keen to have Disclosure for as many of our mentors as possible. <!-- Check back here to find out when one is being scheduled. -->
 
 ### Certifications
 
@@ -51,7 +50,7 @@ Currently volunteering at Prewired doesn't qualify you for any specific awards (
 
 The first time you come to a session, please introduce yourself to the Duty Mentor and remind them who you are and what topics you're able to help with. 
 
-You'll be asked to read our [child protection policy](policy.html) and sign your acknowledgment of them. You'll also be asked to fill out your details for the [mentors database](https://docs.google.com/forms/d/1NAZyNhLD-vFHEqpxOqYa0oaWjvDHe2Xuy4RI1uUqgGM/viewform) so we can keep in touch with you and keep track of the skills we have floating around the room (you can ask us to remove you from this at any time, if you decide to stop coming).
+You'll be asked to read our [child protection policy](policy.html) and sign your acknowledgment of this. You'll also be asked to fill out your details for the [mentors database](https://docs.google.com/forms/d/1NAZyNhLD-vFHEqpxOqYa0oaWjvDHe2Xuy4RI1uUqgGM/viewform) so we can keep in touch with you and keep track of the skills we have floating around the room (you can ask us to remove you from this at any time, if you decide to stop coming).
 
 Sometimes it can be hard to get stuck in, so [here are some guidelines for effective mentoring](#mentors-guidelines).
 
@@ -59,40 +58,40 @@ Sometimes it can be hard to get stuck in, so [here are some guidelines for effec
 
 You don't need to come every week, but it's helpful for the kids to have some consistency, so we'd love it if you could come as often as possible. If you do become a regular, please join the [prewired-helpers@googlegroups.com](http://groups.google.com/forum/#!forum/prewired-helpers) mailing list, where we post special announcements, meetings/programmes/events/opportunities that might interest mentors, and occasional reminders about sessions. You can also use this list to chat to other mentors and ask questions.
 
-Please also add your details to the [mentors database](https://docs.google.com/forms/d/1NAZyNhLD-vFHEqpxOqYa0oaWjvDHe2Xuy4RI1uUqgGM/viewform).
+Please also add your details to the [mentors' database](https://docs.google.com/forms/d/1NAZyNhLD-vFHEqpxOqYa0oaWjvDHe2Xuy4RI1uUqgGM/viewform).
 
-Mentors who have undergone Disclosure can take a turn at being the Duty Mentor. We rotate this each week between people happy to do it, and it's mostly just about being the first port of call for kids, parents and other mentors. You can see the [Duty Mentor guidelines and rota here](#duty-mentor-guidelines-and-rota). 
+Mentors who have undergone Disclosure can take a turn at being the Duty Mentor. We rotate this between people happy to do it, and it's mostly just about being the first port of call for kids, parents and other mentors. You can see the [Duty Mentor guidelines and rota here](#duty-mentor-guidelines-and-rota). 
 
 ## Organising and outreach
 
-If you're interested in getting more involved in the organising side of things, let us know that too! If you have any specific qualifications, skills or experience (eg. in education, child services, first-aid, accounting...) don't forget to mention that.
+If you're interested in getting more involved in the organising side of things, let us know that too! If you have any specific qualifications, skills or experience (e.g., in education, child services, first-aid, accounting...) don't forget to mention that.
 
-## Mentors guidelines
+## Mentor guidelines
 
 ### Mentors must:
 
-* comply with our [child protection policy](policy.html).
-* be identifiable as a mentor (eg. by wearing a tshirt or lanyard).
-* provide us with up-to-date contact details if they wish to come regularly.
-* return borrowed mentor tshirts or lanyards at the end of a session.
+* Comply with our [child protection policy]({{ site.url }}/policy/).
+* Be identifiable as a mentor (e.g., by wearing a lanyard or T-shirt).
+* Provide us with up-to-date contact details if they wish to come regularly.
+* Return borrowed mentor lanyards or T-shirts at the end of a session.
 
 ### Mentors should:
 
-* look out for kids with their hands up, and find out what they need.
-* check up on kids who appear to be playing games or staring blankly at a screen (or other forms of unproductivity). Nudge them into focusing by asking them what they're working on; if they have some code, ask them to explain to you how it works, and what their aim is. 
-* find something to do for kids who aren't sure what to work on. Try to find out what they're interested in - some have wild ideas but don't know how to implement them - or what experience they already have, and use your best judgment. CodeAcademy JavaScript tutorials are a good fallback if all else fails, but take some time to tailor your suggestions if you can.
-* find another mentor who knows about the specific topic, if you can't help with something. Just ask around, but don't leave a child with a question hanging.
-* help kids search the web for answers. Being able to look up information and understand how StackOverflow works is a valuable skill you can teach to someone!
-* answer parents' questions to the best of their ability, but can defer to one of the organisers if need be.
-* undergo STEM Ambassador training, which includes Disclosure. You're not obliged to do this, but the more Disclosed mentors we have the better. We periodically arrange sessions; [find out more here](#certifications-and-qualifications).
-* take a turn at being the [Duty Mentor](#duty-mentor-guidelines-and-rota), but you can opt out if you'd rather not.
-* do as the Duty Mentor says.
+* Look out for kids with their hands up, and find out what they need.
+* Check up on kids who appear to be playing games or staring blankly at a screen (or other forms of unproductivity). Nudge them into focusing by asking them what they're working on; if they have some code, ask them to explain to you how it works, and what their aim is. 
+* Find something to do for kids who aren't sure what to work on. Try to find out what they're interested in &mdash; some have wild ideas but don't know how to implement them &mdash; or what experience they already have, and use your best judgment. CodeAcademy JavaScript tutorials are a good fallback if all else fails, but take some time to tailor your suggestions if you can.
+* Find another mentor who knows about the specific topic if you can't help with something. Just ask around, but don't leave a child with a question hanging.
+* Help kids search the web for answers. Being able to look up information and understand how StackOverflow works is a valuable skill you can teach to someone!
+* Answer parents' questions to the best of your ability, but  defer to one of the organisers if need be.
+* Undergo STEM Ambassador training, which includes Disclosure. You're not obliged to do this, but the more Disclosed mentors we have the better. We periodically arrange sessions; [find out more here](#certifications-and-qualifications).
+* Take a turn at being the [Duty Mentor](#duty-mentor-guidelines-and-rota), but you can opt out if you'd rather not.
+* Do as the Duty Mentor says.
 
 ### Mentors must not:
 
-* share any food or drink with Prewired participants that has not been provided by Prewired.
-* encourage kids to communicate by private email exchange. All interaction between kids and mentors can go through the [prewired-discuss googlegroup, IRC channel or other public/moderated communications means](contact.html).
-* stand around chatting between themselves for long periods. You can take the juice-break with everyone else, but remember you're here to help the kids, not socialise! (We periodically arrange mentors parties for you for that :)
+* Share any food or drink with Prewired participants that has not been provided by Prewired.
+* Encourage kids to communicate by private email exchange. All interaction between kids and mentors can go through the [prewired-discuss googlegroup, IRC channel or other public/moderated communications means](({{ site.url }}/contact/).
+* Stand around chatting between themselves for long periods. You can take the juice-break with everyone else, but remember you're here to help the kids, not socialise! (We periodically arrange mentors parties for you for that.
 
 ## Duty Mentor guidelines and rota
 

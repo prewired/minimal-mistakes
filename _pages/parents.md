@@ -3,18 +3,17 @@ layout: single
 title: "Information for Parents"
 permalink: "/parents/"
 ---
-
-### Information for Parents
+{% include toc %}
 
 Parents and guardians: you are welcome, but not obliged, to accompany your child to a Prewired session if you think this would benefit them. They will otherwise be fully supervised at all times by volunteers from local community groups, companies and universities.
 
-### [Why] Should my child come to Prewired?
+## [Why] Should my child come to Prewired?
 
 If your child has shown an interest in learning to code, or just always seems to be on the computer, then they'll probably get a lot out of coming to Prewired. We let the young people guide their own learning, and support them by answering questions and pointing them at the right resources.
 
 We have no lower limit on age or ability, so long as your child is enthusiastic about coding and is comfortable learning independently or in a semi-supervised way with a computer. (We don't have the capacity to look after very young children who are not able to engage).
 
-### What do we offer?
+## What do we offer?
 
 Prewired provides an unstructured but **supportive environment** for under 19s to explore and learn about computer programming and related topics.
 
@@ -24,9 +23,9 @@ Occasionally we run structured **workshops** to introduce attendees to a new top
 
 Prewired is also a place for young people to **meet peers** with shared interests which they can develop together. For some, it can be difficult to interest friends and family in computing, which may lead to a feeling of isolation. It can be hard to figure out where to go next when there's no-one you can ask. We want to let young people know that there's a huge **community** of like-minded people who are waiting to welcome them.
 
-### What does your child need?
+## What does your child need?
 
-Firstly, they'll need to [register for membership]({{ site.url }}/registration/), and then [book a place](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895) for each session that they would like to attend.
+First, they'll need to [register for membership]({{ site.url }}/registration/), and then [book a place](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895) for each session that they would like to attend.
 
 If possible, they should bring a laptop. We have a few spares, but not many.
 
@@ -34,24 +33,24 @@ If your child has other pieces of electronic technology (e.g., Raspberry Pis, Ar
 
 We'll provide fruit juice and a few snacks half way through the session. If your child wants to bring their own snacks they're welcome to.
 
-### How much does it cost?
+## How much does it cost?
 
 Nothing! Prewired is free, run by volunteers, occasionally supported by donations from local companies.
 
-### Membership
+## Membership
 
-For frequent attendees, we offer a long-term membership option. This just means you have to fill out the registration form less frequently, by giving us permission to hold your data on file. You can [sign up here](membership.html#membership).
+For frequent attendees, we offer a long-term membership option. This just means you have to fill out the registration form less frequently, by giving us permission to hold your data on file. You can [sign up here]({{ site.url }}/registration#membership/)membership).
 
-### Why do we do this?
+## Why do we do this?
 
 See the [FAQ]({{ site.url }}/faq#why-do-we-do-this/).
 
-### Child protection
+## Child protection
 
 A majority of our mentors have completed [STEM Ambassador](http://www.stemnet.org.uk/ambassadors/) training and hold [Disclosure](http://www.disclosurescotland.co.uk/).
 
 You can read our [child protection policy here]({{ site.url }}/policy/).
 
-### Any other questions?
+## Any other questions?
 
 Please email hello[at]prewired.org and we'll be happy to answer them.
