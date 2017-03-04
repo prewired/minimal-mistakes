@@ -5,7 +5,7 @@ permalink: "/sponsors/"
 ---
 {% include toc %}
 
-Prewired is run by volunteers on a shoestring budget. Keeping young people enthused about programming is [really important](faq.html#why-do-we-do-this), so if you'd like to help us keep going, read on to find out what we need.
+Prewired is run by volunteers on a shoestring budget. Keeping young people enthused about programming is [really important]({{ site.url }}/faq#why-do-we-do-this/), so if you'd like to help us keep going, read on to find out what we need.
 
 Please email hello[at]prewired.org if you or the company you work for might be able to help us out with any of items mentioned below.
 
