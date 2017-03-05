@@ -3,7 +3,7 @@ layout: single
 title: "About Prewired"
 permalink: "/about/"
 header:
-  image: /assets/images/six-kids.jpg
+  image: /assets/images/cameron.jpg
 ---
 ## Why do we do this?
 

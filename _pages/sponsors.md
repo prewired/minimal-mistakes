@@ -2,6 +2,8 @@
 layout: single
 title: Sponsors
 permalink: "/sponsors/"
+header:
+  image: /assets/images/pink-cookie.jpg
 ---
 {% include toc %}
 
@@ -13,7 +15,7 @@ Also, please make sure you're happy with our [sponsorship policy](#sponsorship-p
 
 ## Equipment
 
-Not all of the young people who come to Prewired can bring their own laptops. We have a few donated spares that attendees can borrow. Does your company have spare or old laptops lying around that could use a good home? Or could you buy us some cheap ones we can put Ubuntu on?
+Although we have a good stock of laptops, thanks to generous donations from various sources, we are always on the lookout for new equipment, including small devices.
 
 <!-- ## Catering
 
@@ -34,7 +36,7 @@ Annually we take part in [Young Rewired State](http://www.festivalofco.de), whic
 
 ## Work Experience
 
-Many of our young people are at secondary school and have mandatory work experience coming up. These usually last one week. Some of the placements can be pretty rubbish. We think it would be really beneficial to be able to send them to a software company rather than something they're not really interested in. Can your company host an enthusiastic young coder for a week in spring/summer? We're building up a database so that we can pair young people with good placements when the time comes. [Read more here](workexp.html).
+Many of our young people are at secondary school and have mandatory work experience coming up. These usually last one week. Some of the placements can be pretty rubbish. We think it would be really beneficial to be able to send them to a software company rather than something they're not really interested in. Can your company host an enthusiastic young coder for a week in spring/summer? We're building up a database so that we can pair young people with good placements when the time comes.
 
 ## Prizes
 

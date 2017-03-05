@@ -19,7 +19,7 @@ Yes! See [registration and membership]({{ site.url}}/registration/).
 
 ## Where is Prewired?
 
-CodeBase, 3 Lady Lawson Street, Edinburgh (see [map](https://www.google.co.uk/maps/place/CodeBase/@55.946414,-3.200923,15z/data=!4m2!3m1!1s0x0:0x5727e05b4321b9f6?sa=X&ei=wNayVLb3KsLP7QbmmYGIBA&ved=0CHQQ_BIwDg)).
+[CodeBase](http://thisiscodebase.com), 38 Castle Terrace, Edinburgh EH3 9DZ (see [map](https://www.google.co.uk/maps/place/CodeBase/@55.946414,-3.200923,15z/data=!4m2!3m1!1s0x0:0x5727e05b4321b9f6?sa=X&ei=wNayVLb3KsLP7QbmmYGIBA&ved=0CHQQ_BIwDg)). There  is some metered parking nearby, but no free parking.
 
 ## Can parents attend too?
 
@@ -32,13 +32,7 @@ Yes. See [information for parents]({{ site.url}}/parents/).
 * We'll provide some snacks, but you can bring your own if you like.
 * Enthusiasm! Whether you know everything or nothing at all, all you need is to be excited about making something cool with computers. If you have ideas about what you'd like to do but don't know how to do it you should let someone know!
 
-## Why do we do this?
 
-Many schools do not yet offer appropriate computing classes, and curricula that do exist can be patchy. The technology industry is an ever growing one, and at the moment there are more software engineering (and similar) jobs in world than there are people qualified to fill them. It would be terrible if gifted and enthusiastic young people were deterred from pursuing computing qualifications and roles because they were not aware of the opportunities available. We feel that this is too important and urgent to wait for schools to catch up.
-
-But learning to code doesn't only qualify you to be a coder. As our world becomes increasingly technologically-oriented, understanding the process of creating the software that powers our daily lives becomes crucial for everyone. Becoming an empowered digital citizen &mdash; or professional in another industry &mdash; allows people to navigate their rights and responsibilities and make informed decisions about the products and services they use, or provide to others.
-
-We think technology can help us towards a better world, but only if future generations understand the opportunities (and risks) it brings and the impact it can have.
 
 ## How can I help?
 

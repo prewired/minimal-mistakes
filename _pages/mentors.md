@@ -2,6 +2,8 @@
 layout: single
 title: Mentors
 permalink: "/mentors/"
+header:
+  image: /assets/images/helen.jpg
 ---
 {% include toc %}
 
