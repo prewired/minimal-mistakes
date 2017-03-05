@@ -3,6 +3,8 @@ layout: single
 title: "Frequently Asked Questions"
 permalink: "/faq/"
 ---
+{% include toc %}
+
 ## What is Prewired? Can I attend? How do I join?
 
 See [should I come to Prewired]({{ site.url}}/parents#why-should-my-child-come-to-prewired) and [how to join]({{ site.url}}/registration/).
@@ -13,11 +15,11 @@ Yes! See [registration and membership]({{ site.url}}/registration/).
 
 ## When is Prewired?
 
-5.30&ndash;7.30pm, every Wednesday during school term time.
+5.30&ndash;7.30 pm, every Wednesday during school term time.
 
 ## Where is Prewired?
 
-CodeBase, 3 Lady Lawson Street, Edinburgh ([map](https://www.google.co.uk/maps/place/CodeBase/@55.946414,-3.200923,15z/data=!4m2!3m1!1s0x0:0x5727e05b4321b9f6?sa=X&ei=wNayVLb3KsLP7QbmmYGIBA&ved=0CHQQ_BIwDg)).
+CodeBase, 3 Lady Lawson Street, Edinburgh (see [map](https://www.google.co.uk/maps/place/CodeBase/@55.946414,-3.200923,15z/data=!4m2!3m1!1s0x0:0x5727e05b4321b9f6?sa=X&ei=wNayVLb3KsLP7QbmmYGIBA&ved=0CHQQ_BIwDg)).
 
 ## Can parents attend too?
 

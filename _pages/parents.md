@@ -37,19 +37,21 @@ We'll provide fruit juice and a few snacks half way through the session. If your
 
 Nothing! Prewired is free, run by volunteers, occasionally supported by donations from local companies.
 
-## Membership
+<!-- ## Membership
 
-For frequent attendees, we offer a long-term membership option. This just means you have to fill out the registration form less frequently, by giving us permission to hold your data on file. You can [sign up here]({{ site.url }}/registration#membership/)membership).
+For frequent attendees, we offer a long-term membership option. This just means you have to fill out the registration form less frequently, by giving us permission to hold your data on file. You can [sign up here]({{ site.url }}/registration#membership/)membership). -->
 
 ## Why do we do this?
 
 See the [FAQ]({{ site.url }}/faq#why-do-we-do-this/).
 
-## Child protection
+## How do we deal with child protection?
 
 A majority of our mentors have completed [STEM Ambassador](http://www.stemnet.org.uk/ambassadors/) training and hold [Disclosure](http://www.disclosurescotland.co.uk/).
 
 You can read our [child protection policy here]({{ site.url }}/policy/).
+
+## Who organises Prewired?
 
 ## Any other questions?
 
