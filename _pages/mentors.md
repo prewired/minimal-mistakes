@@ -13,9 +13,7 @@ Helping young people learn to code is hugely rewarding. If you can offer your ti
 
 Read on to find out more about [how we teach](#how-we-teach), [getting Disclosure](#certifications-and-qualifications), [what to do you on your first day](#on-your-first-day), [becoming a long-term mentor](#ongoing-participation), and read the [mentor guidelines](#mentor-guidelines).
 
-**Don't forget to sign up to the [newsletter](#newsletter) to stay up to date with our activities.**
-
-## How we teach
+## How We Work
 
 Prewired is largely unstructured and our main goal is to support the young people in learning whatever it is they want to learn. So mentoring at Prewired consists mostly of wandering around a room full of budding hackers, answering questions, helping to fix bugs, and actively checking on the kids to make sure they're happy and learning.
 
@@ -52,32 +50,32 @@ Currently volunteering at Prewired doesn't qualify you for any specific awards (
 
 The first time you come to a session, please introduce yourself to the Duty Mentor and remind them who you are and what topics you're able to help with. 
 
-You'll be asked to read our [child protection policy](policy.html) and sign your acknowledgment of this. You'll also be asked to fill out your details for the [mentors database](https://docs.google.com/forms/d/1NAZyNhLD-vFHEqpxOqYa0oaWjvDHe2Xuy4RI1uUqgGM/viewform) so we can keep in touch with you and keep track of the skills we have floating around the room (you can ask us to remove you from this at any time, if you decide to stop coming).
+You'll be asked to read our [child protection policy](policy.html) and sign your acknowledgment that you have done so. You'll also be asked to fill out your details for the [mentors database](https://docs.google.com/forms/d/1NAZyNhLD-vFHEqpxOqYa0oaWjvDHe2Xuy4RI1uUqgGM/viewform) so we can keep in touch with you and keep track of the skills we have around the room (you can ask us to remove you from this at any time, if you decide to stop coming).
 
-Sometimes it can be hard to get stuck in, so [here are some guidelines for effective mentoring](#mentors-guidelines).
+Sometimes it can be hard to get stuck in, so we have developed [some guidelines for mentoring](#mentors-guidelines).
 
 ## Ongoing participation
 
-You don't need to come every week, but it's helpful for the kids to have some consistency, so we'd love it if you could come as often as possible. If you do become a regular, please join the [prewired-helpers@googlegroups.com](http://groups.google.com/forum/#!forum/prewired-helpers) mailing list, where we post special announcements, meetings/programmes/events/opportunities that might interest mentors, and occasional reminders about sessions. You can also use this list to chat to other mentors and ask questions.
+You don't need to come every week, but it's helpful for the kids to have some consistency, so we'd love it if you could come as often as possible. If you do become a regular, please ask for an invite to the `#mentors` channel on the [Slack](https://slack.com) Prewired team &mdash; this is where we post  announcements, etc that might interest mentors and occasional reminders about sessions. You can also use this channel to chat to other mentors and ask questions.
 
 Please also add your details to the [mentors' database](https://docs.google.com/forms/d/1NAZyNhLD-vFHEqpxOqYa0oaWjvDHe2Xuy4RI1uUqgGM/viewform).
 
-Mentors who have undergone Disclosure can take a turn at being the Duty Mentor. We rotate this between people happy to do it, and it's mostly just about being the first port of call for kids, parents and other mentors. You can see the [Duty Mentor guidelines and rota here](#duty-mentor-guidelines-and-rota). 
+<!-- Mentors who have undergone Disclosure can take a turn at being the Duty Mentor. We rotate this between people happy to do it, and it's mostly just about being the first port of call for kids, parents and other mentors. You can see the [Duty Mentor guidelines and rota here](#duty-mentor-guidelines-and-rota).  -->
 
 ## Organising and outreach
 
 If you're interested in getting more involved in the organising side of things, let us know that too! If you have any specific qualifications, skills or experience (e.g., in education, child services, first-aid, accounting...) don't forget to mention that.
 
-## Mentor guidelines
+## Mentor Guidelines
 
-### Mentors must:
+### Mentors must
 
 * Comply with our [child protection policy]({{ site.url }}/policy/).
 * Be identifiable as a mentor (e.g., by wearing a lanyard or T-shirt).
 * Provide us with up-to-date contact details if they wish to come regularly.
 * Return borrowed mentor lanyards or T-shirts at the end of a session.
 
-### Mentors should:
+### Mentors should
 
 * Look out for kids with their hands up, and find out what they need.
 * Check up on kids who appear to be playing games or staring blankly at a screen (or other forms of unproductivity). Nudge them into focusing by asking them what they're working on; if they have some code, ask them to explain to you how it works, and what their aim is. 
@@ -89,7 +87,7 @@ If you're interested in getting more involved in the organising side of things, 
 * Take a turn at being the [Duty Mentor](#duty-mentor-guidelines-and-rota), but you can opt out if you'd rather not.
 * Do as the Duty Mentor says.
 
-### Mentors must not:
+### Mentors must not
 
 * Share any food or drink with Prewired participants that has not been provided by Prewired.
 * Encourage kids to communicate by private email exchange. All interaction between kids and mentors can go through the [prewired-discuss googlegroup, IRC channel or other public/moderated communications means](({{ site.url }}/contact/).

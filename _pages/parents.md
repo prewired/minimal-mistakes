@@ -31,7 +31,7 @@ Prewired is also a place for young people to **meet peers** with shared interest
 
 ## What does your child need?
 
-First, they'll need to [register for membership]({{ site.url }}/registration/), and then [book a place](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895) for each session that they would like to attend.
+First, they'll need to [register for membership]({{ site.url }}/registration/). Once this has been done, [book a place](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895) for each session that they would like to attend.
 
 We have laptops that children can borrow, but your child is welcome to bring their own computers. If they have other pieces of electronic technology (e.g., Raspberry Pis, Arduino kits, Lego Mindstorms) they want to tinker with, they can bring them along! 
 
@@ -47,13 +47,11 @@ For frequent attendees, we offer a long-term membership option. This just means 
 
 ## Why do we do this?
 
-See the [FAQ]({{ site.url }}/faq#why-do-we-do-this/).
+See [About Us]({{ site.url }}/about#why-do-we-do-this/).
 
 ## How do we deal with child protection?
 
-A majority of our mentors have completed [STEM Ambassador](http://www.stemnet.org.uk/ambassadors/) training and hold [Disclosure](http://www.disclosurescotland.co.uk/).
-
-You can read our [child protection policy here]({{ site.url }}/policy/).
+A majority of our mentors have completed [STEM Ambassador](http://www.stemnet.org.uk/ambassadors/) training and hold [Disclosure](http://www.disclosurescotland.co.uk/). We also have adopted a [child protection policy]({{ site.url }}/policy/).
 
 ## Any other questions?
 
