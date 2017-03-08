@@ -9,7 +9,7 @@ permalink: /registration/
 If you would like to attend Prewired, please:
 
 1. Complete the [Membership Form](#membership) below. This is important so that we can collect important things like emergency contact information. You only need to do this once.
-2. As long as we have your membership details, just go ahead and [book a place for individual Prewired sessions on Eventbrite](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895). 
+2. Once we have your membership details, just go ahead and [book a place for individual Prewired sessions on Eventbrite](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895). 
 
 
 ### Membership Form

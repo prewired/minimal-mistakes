@@ -17,20 +17,7 @@ Read on to find out more about [how we teach](#how-we-teach), [getting Disclosur
 
 Prewired is largely unstructured and our main goal is to support the young people in learning whatever it is they want to learn. So mentoring at Prewired consists mostly of wandering around a room full of budding hackers, answering questions, helping to fix bugs, and actively checking on the kids to make sure they're happy and learning.
 
-Any and all software and hardware skills are welcome! At present we have young people working with:
-
-* Python basics
-* Python games
-* Front-end web development
-* Scratch
-* Minecraft mods
-* C++
-* Java
-* Lego Mindstorms
-* Raspberry Pi
-* Arduinos
-
-We don't always have mentors to cover all of these, so if you know anything about these topics, please get in touch! If you have different expertise you'd like to bring, that's also very welcome. We have new attendees all the time, and it's hard to predict what they'll want to learn about next.
+Any and all software and hardware skills are welcome! See [What we do]({{ site.url }}/what-we-do/) for more information.
 
 ## Workshops
 
