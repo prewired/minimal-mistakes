@@ -13,6 +13,12 @@ But learning to code doesn't only qualify you to be a coder. As our world become
 
 We think technology can help us towards a better world, but only if future generations understand the opportunities (and risks) it brings and the impact it can have.
 
+## Participants and Mentors
+
+The full roster of regular Prewired attendees comprises around 40 young people. In a typical evening session, we will host around 25 regulars and another handful who are new or who drop in more occasionally.
+Running Prewired sessions on a regular basis has only been made possible with the voluntary support of a core group of around half a dozen dedicated mentors, drawn from students at Edinburgh, Napier and Heriot Watt Universities;
+independent developers; and by staff from local tech companies. <!-- Our list of regular mentors currently comprises 18 people, of whom six are registered under Disclosure Scotland’s PVG Scheme. -->
+
 ## Management Committee
 
 Prewired is in the process of applying for SCIO status, and is organised by a management committee with the following members: 
@@ -45,7 +51,9 @@ Thus, Prewired was born, with these objectives:
 The Prewired launch was held on the morning of 16th October 2013, in the University of Edinburgh’s Informatics Forum. Thirty eight young people between the ages of 4 and 18 attended, while 15 mentors—university students, staff and local industry professionals—came along to help. Following on
 from the launch, we held Prewired on a biweekly basis on Wednesday evenings in one of the School of Informatics computing labs in Appleton Tower. Despite minimal advertising, a devoted cohort of young people attended during 2013-14 on a regular basis, often accompanied by a parent, with numbers consistently in the 20-30 range.
 
-In January 2015, faced with the imminent unavailability of Appleton Tower lab space due to refurbishment works, Prewired moved location to CodeBase, a UK- leading tech incubator based in central Edinburgh, and due to the high level of demand from participants, began offering sessions on weekly basis. One benefit of the move was that staff from tech companies housed in CodeBase have also started to offer mentoring support.
+In spring 2014, Prewired became affiliated with C[odorDojo](http://coderdojoscotland.com), part of a global collaboration that provides free coding clubs for young people. 
+
+In January 2015, faced with the imminent unavailability of Appleton Tower lab space due to refurbishment works, Prewired moved location to [CodeBase](http://thisiscodebase.com), a UK-leading tech incubator based in central Edinburgh, and due to the high level of demand from participants, began offering sessions on weekly basis. One benefit of the move was that staff from tech companies housed in CodeBase have also started to offer mentoring support.
 
 [![](/assets/images/report_cover.jpg){: .align-left}]({{ site.url }}/pdfs/prewired-for-web.pdf)
 To find out more about how we've developed and what we've been doing, read [our first Prewired report]({{ site.url }}/pdfs/prewired-for-web.pdf).
