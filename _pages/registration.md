@@ -2,7 +2,9 @@
 layout: single
 title: "Registration and Membership"
 permalink: /registration/
+sidebar_cal: true
 ---
+{% include sidebar_cal %}
 
 ## How to Attend Prewired
 
@@ -13,7 +15,7 @@ If you would like to attend Prewired, please:
 
 
 <iframe  src="https://www.eventbrite.co.uk/calendar-widget?eid=20439490065" frameborder="0" height="367" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
-<div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/ecal">Powered by Eventbrite</a></div>
+<div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:195px; text-align:center;" ><a style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/ecal">Powered by Eventbrite</a></div>
 
 
 ### Membership Form

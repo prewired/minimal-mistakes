@@ -468,3 +468,19 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
+
+/*
+   My hacks for logos
+   ========================================================================== */
+
+#logos_4 a {
+  display: inline-block;
+  max-width: 25%;
+  padding-left: 2em;
+  padding-right: 2em;
+  
+}
+
+#logos_4 img {
+  vertical-align: top;
+}
