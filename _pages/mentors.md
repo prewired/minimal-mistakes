@@ -6,6 +6,7 @@ header:
   image: /assets/images/helen.jpg
 ---
 {% include toc %}
+{% include base_path %}
 
 We're always looking for more helpers!
 
@@ -17,7 +18,7 @@ Read on to find out more about [how we teach](#how-we-teach), [getting Disclosur
 
 Prewired is largely unstructured and our main goal is to support the young people in learning whatever it is they want to learn. So mentoring at Prewired consists mostly of wandering around a room full of budding hackers, answering questions, helping to fix bugs, and actively checking on the kids to make sure they're happy and learning.
 
-Any and all software and hardware skills are welcome! See [What we do]({{ site.url }}/what-we-do/) for more information.
+Any and all software and hardware skills are welcome! See [What we do]({{ base_path }}/what-we-do/) for more information.
 
 ## Workshops
 
@@ -57,7 +58,7 @@ If you're interested in getting more involved in the organising side of things, 
 
 ### Mentors must
 
-* Comply with our [child protection policy]({{ site.url }}/policy/).
+* Comply with our [child protection policy]({{ base_path }}/policy/).
 * Be identifiable as a mentor (e.g., by wearing a lanyard or T-shirt).
 * Provide us with up-to-date contact details if they wish to come regularly.
 * Return borrowed mentor lanyards or T-shirts at the end of a session.
@@ -77,6 +78,6 @@ If you're interested in getting more involved in the organising side of things, 
 ### Mentors must not
 
 * Share any food or drink with Prewired participants that has not been provided by Prewired.
-* Encourage kids to communicate by private email exchange. All interaction between kids and mentors can go through the [prewired-discuss googlegroup, IRC channel or other public/moderated communications means](({{ site.url }}/contact/).
+* Encourage kids to communicate by private email exchange. All interaction between kids and mentors can go through the [prewired-discuss googlegroup, IRC channel or other public/moderated communications means](({{ base_path }}/contact/).
 * Stand around chatting between themselves for long periods. You can take the juice-break with everyone else, but remember you're here to help the kids, not socialise! (We periodically arrange mentors parties for you for that.
 

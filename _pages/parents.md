@@ -6,6 +6,7 @@ header:
   image: /assets/images/six-kids.jpg
 ---
 {% include toc %}
+{% include base_path %}
 
 ## Do I need to come with my child?
 
@@ -25,13 +26,13 @@ Prewired provides an unstructured but **supportive environment** for under 19s t
 
 We have **mentors** from university and industry with a wide variety of skills who volunteer their time because they love to teach young people about computing. 
 
-Occasionally we run structured **workshops** to introduce attendees to a new topic they may not have considered before. Sometimes we hold **hackathons**, where the kids are challenged to meet specific goals in a set amount of time; this is a really fun learning experience, with concrete outcomes. Sometimes we form teams to take part in national **events** like [the First Lego League](http://www.firstlegoleague.org/) or [Young Rewired State](http://www.yrs.io).
+Occasionally we run structured **workshops** to introduce attendees to a new topic they may not have considered before. Sometimes we hold **hackathons**, where the kids are challenged to meet specific goals in a set amount of time; this is a really fun learning experience, with concrete outcomes. Sometimes we form teams to take part in national **events** like [the First Lego League](http://www.firstlegoleague.org/) or [Young Rewired State](https://yrs.io).
 
 Prewired is also a place for young people to **meet peers** with shared interests which they can develop together. For some, it can be difficult to interest friends and family in computing, which may lead to a feeling of isolation. It can be hard to figure out where to go next when there's no-one you can ask. We want to let young people know that there's a huge **community** of like-minded people who are waiting to welcome them.
 
 ## What does your child need?
 
-First, they'll need to [register for membership]({{ site.url }}/registration/). Once this has been done, [book a place](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895) for each session that they would like to attend.
+First, they'll need to [register for membership]({{ base_path }}/registration/). Once this has been done, [book a place](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895) for each session that they would like to attend.
 
 We have laptops that children can borrow, but your child is welcome to bring their own computers. If they have other pieces of electronic technology (e.g., Raspberry Pis, Arduino kits, Lego Mindstorms) they want to tinker with, they can bring them along! 
 
@@ -47,11 +48,11 @@ For frequent attendees, we offer a long-term membership option. This just means 
 
 ## Why do we do this?
 
-See [About Us]({{ site.url }}/about#why-do-we-do-this/).
+See [About Us]({{ base_path }}/about#why-do-we-do-this/).
 
 ## How do we deal with child protection?
 
-A majority of our mentors have completed [STEM Ambassador](http://www.stemnet.org.uk/ambassadors/) training and hold [Disclosure](http://www.disclosurescotland.co.uk/). We also have adopted a [child protection policy]({{ site.url }}/policy/).
+A majority of our mentors have completed [STEM Ambassador](http://www.stemnet.org.uk/ambassadors/) training and hold [Disclosure](http://www.disclosurescotland.co.uk/). We also have adopted a [child protection policy]({{ base_path }}/policy/).
 
 ## Any other questions?
 

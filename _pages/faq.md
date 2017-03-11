@@ -4,14 +4,15 @@ title: "Frequently Asked Questions"
 permalink: "/faq/"
 ---
 {% include toc %}
+{% include base_path %}
 
 ## What is Prewired? Can I attend? How do I join?
 
-See [should I come to Prewired]({{ site.url}}/parents#why-should-my-child-come-to-prewired) and [how to join]({{ site.url}}/registration/).
+See [should I come to Prewired]({{ base_path }}/parents#why-should-my-child-come-to-prewired) and [how to join]({{ base_path }}/registration/).
 
 ## Do I need to register?
 
-Yes! See [registration and membership]({{ site.url}}/registration/).
+Yes! See [registration and membership]({{ base_path }}/registration/).
 
 <!-- ## When is Prewired?
 
@@ -23,17 +24,17 @@ Yes! See [registration and membership]({{ site.url}}/registration/).
 
 ## Can parents attend too?
 
-Yes. See [information for parents]({{ site.url}}/parents/).
+Yes. See [information for parents]({{ base_path }}/parents/).
 
 ## What is provided / what should participants bring?
 
-* Equipment and snacks: see [What does your child need?]({{ site.url}}/parents/#what-does-your-child-need)
+* Equipment and snacks: see [What does your child need?]({{ base_path }}/parents/#what-does-your-child-need)
 
 * Enthusiasm! Whether you know everything or nothing at all, all you need is to be excited about making something cool with computers. If you have ideas about what you'd like to do but don't know how to do it you should let someone know!
 
 ## How can I help?
 
-Consider becoming a [mentor]({{ site.url}}/mentors/) or a [sponsor]({{ site.url}}/sponsors/).
+Consider becoming a [mentor]({{ base_path }}/mentors/) or a [sponsor]({{ base_path }}/sponsors/).
 
 <!-- ## How is Prewired organised / structured?
 

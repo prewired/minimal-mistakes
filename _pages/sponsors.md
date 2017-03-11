@@ -6,8 +6,9 @@ header:
   image: /assets/images/pink-cookie.jpg
 ---
 {% include toc %}
+{% include base_path %}
 
-Prewired is run by volunteers on a shoestring budget. Keeping young people enthused about programming is [really important]({{ site.url }}/faq#why-do-we-do-this/), so if you'd like to help us keep going, read on to find out what we need.
+Prewired is run by volunteers on a shoestring budget. Keeping young people enthused about programming is [really important]({{ base_path }}/faq#why-do-we-do-this/), so if you'd like to help us keep going, read on to find out what we need.
 
 Please email hello[at]prewired.org if you or the company you work for might be able to help us out with any of items mentioned below.
 
@@ -28,7 +29,7 @@ For certain special events and hackathons we'd like to provide light lunch daily
 
 ## Expertise
 
-If you're a company with employees to spare on Wednesday evenings, send them along to CodeBase as [mentors]({{ site.url }}/mentors/)!
+If you're a company with employees to spare on Wednesday evenings, send them along to CodeBase as [mentors]({{ base_path }}/mentors/)!
 
 <!-- ## Transport
 
