@@ -8,7 +8,7 @@ permalink: "/faq/"
 
 ## What is Prewired? Can I attend? How do I join?
 
-See [should I come to Prewired]({{ base_path }}/parents#why-should-my-child-come-to-prewired) and [how to join]({{ base_path }}/registration/).
+See [should I come to Prewired]({{ base_path }}/parents#why-should-my-child-come-to-prewired) and [how to attend]({{ base_path }}/registration/).
 
 ## Do I need to register?
 

@@ -12,7 +12,7 @@ We're always looking for more helpers!
 
 Helping young people learn to code is hugely rewarding. If you can offer your time for two hours at 5.30 pm on a Wednesday evening, we'd love to hear from you! Please drop us an email before showing up, so we know who to expect &mdash; hello [at] prewired [dot] org. 
 
-Read on to find out more about [how we teach](#how-we-teach), [getting Disclosure](#certifications-and-qualifications), [what to do you on your first day](#on-your-first-day), [becoming a long-term mentor](#ongoing-participation), and read the [mentor guidelines](#mentor-guidelines).
+<!-- Read on to find out more about [how we teach](#how-we-teach), [getting Disclosure](#certifications-and-qualifications), [what to do you on your first day](#on-your-first-day), [becoming a long-term mentor](#ongoing-participation), and read the [mentor guidelines](#mentor-guidelines). -->
 
 ## How We Work
 
