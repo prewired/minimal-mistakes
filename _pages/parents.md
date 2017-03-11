@@ -10,7 +10,7 @@ header:
 
 ## Do I need to come with my child?
 
-**If your child is younger than 11**: Yes, you must accompany your child to every Prewired session. 
+**If your child is younger than 11**: Yes, you must accompany your child to every Prewired session. If your child is very young and needs lots of support, you should be prepared to sit with them to help. You can of course ask a mentor for technical advice.
 
 **If your child is 11 or older**: It is up to you. You are welcome to accompany your child if you think this would benefit them. They will otherwise be fully supervised at all times by volunteers from local community groups, companies and universities.
 
@@ -34,9 +34,9 @@ Prewired is also a place for young people to **meet peers** with shared interest
 
 First, they'll need to [register for membership]({{ base_path }}/registration/). Once this has been done, [book a place](http://www.eventbrite.co.uk/e/prewired-tickets-12525428895) for each session that they would like to attend.
 
-We have laptops that children can borrow, but your child is welcome to bring their own computers. If they have other pieces of electronic technology (e.g., Raspberry Pis, Arduino kits, Lego Mindstorms) they want to tinker with, they can bring them along! 
+We have plenty of laptops that children can borrow, but your child is welcome to bring their own computers. If they have other pieces of electronic technology (e.g., Raspberry Pis, Arduino kits, Lego Mindstorms) they want to tinker with, they can bring them along! 
 
-We'll provide fruit juice and a few snacks half way through the session. If your child wants to bring their own snacks they're welcome to.
+We'll provide fruit juice and a few snacks half-way through the session. If your child wants to bring their own snacks they're welcome to.
 
 ## How much does it cost?
 

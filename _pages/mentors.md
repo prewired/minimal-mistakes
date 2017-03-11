@@ -48,7 +48,7 @@ You don't need to come every week, but it's helpful for the kids to have some co
 
 Please also add your details to the [mentors' database](https://docs.google.com/forms/d/1NAZyNhLD-vFHEqpxOqYa0oaWjvDHe2Xuy4RI1uUqgGM/viewform).
 
-<!-- Mentors who have undergone Disclosure can take a turn at being the Duty Mentor. We rotate this between people happy to do it, and it's mostly just about being the first port of call for kids, parents and other mentors. You can see the [Duty Mentor guidelines and rota here](#duty-mentor-guidelines-and-rota).  -->
+Mentors who have undergone Disclosure can take a turn at being the Duty Mentor, which is mostly just about being the first port of call for kids, parents and other mentors. You can see the [Duty Mentor guidelines and rota here]({{ base_path }}/duty-mentor/).
 
 ## Organising and outreach
 
@@ -78,6 +78,6 @@ If you're interested in getting more involved in the organising side of things, 
 ### Mentors must not
 
 * Share any food or drink with Prewired participants that has not been provided by Prewired.
-* Encourage kids to communicate by private email exchange. All interaction between kids and mentors can go through the [prewired-discuss googlegroup, IRC channel or other public/moderated communications means](({{ base_path }}/contact/).
+* Encourage kids to communicate by private email exchange or ask them for any personal details. **CHANGE THIS???** Any interaction between kids and mentors can go through the [prewired-discuss googlegroup, IRC channel or other public/moderated communications means](({{ base_path }}/contact/).
 * Stand around chatting between themselves for long periods. You can take the juice-break with everyone else, but remember you're here to help the kids, not socialise! (We periodically arrange mentors parties for you for that.
 
