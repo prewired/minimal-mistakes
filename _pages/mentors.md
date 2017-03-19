@@ -71,13 +71,13 @@ If you're interested in getting more involved in the organising side of things, 
 * Find another mentor who knows about the specific topic if you can't help with something. Just ask around, but don't leave a child with a question hanging.
 * Help kids search the web for answers. Being able to look up information and understand how StackOverflow works is a valuable skill you can teach to someone!
 * Answer parents' questions to the best of your ability, but  defer to one of the organisers if need be.
-* Undergo STEM Ambassador training, which includes Disclosure. You're not obliged to do this, but the more Disclosed mentors we have the better. We periodically arrange sessions; [find out more here](#certifications-and-qualifications).
+* Undergo training for the [STEM Ambassador Programme](http://www.stemnet.org.uk/ambassadors/), which includes Disclosure. You're not obliged to do this, but the more Disclosed mentors we have the better. We periodically arrange sessions.
 <!-- * Take a turn at being the [Duty Mentor](#duty-mentor-guidelines-and-rota), but you can opt out if you'd rather not. -->
 * Do as the Duty Mentor says.
 
 ### Mentors must not
 
 * Share any food or drink with Prewired participants that has not been provided by Prewired.
-* Encourage kids to communicate by private email exchange or ask them for any personal details. **CHANGE THIS???** Any interaction between kids and mentors can go through the [prewired-discuss googlegroup, IRC channel or other public/moderated communications means](({{ base_path }}/contact/).
+* Encourage kids to communicate with them through any private channel such as email or ask them for any personal details.
 * Stand around chatting between themselves for long periods. You can take the juice-break with everyone else, but remember you're here to help the kids, not socialise! (We periodically arrange mentors parties for you for that.
 
